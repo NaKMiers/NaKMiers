@@ -59,7 +59,7 @@ A cross-platform finance app launched on the **App Store**, deployed via **Verce
 📆 Jun 2024 – Sep 2024  
 An educational course platform with course purchasing, video streaming, and analytics dashboard. Fully responsive & cloud-deployed.  
 **Tech Stack**: ReactJS · Next.js · Node.js · MongoDB · AWS · GCP · TailwindCSS  
-**Skills**: LMS Features · Admin Dashboard · Cloud Deployment · MongoDB Aggregation
+**Skills**: Admin Dashboard · Cloud Deployment · MongoDB Aggregation
 
 ---
 
@@ -100,7 +100,7 @@ These demonstrate my ability to deliver production-ready apps, blend design & de
 | **Backend / APIs**      | Node.js · Express · Python (Flask/Django) · ASP.NET · REST APIs                 |
 | **Database / ORM**      | MongoDB · PostgreSQL · SQLite · Prisma · Mongoose · EF Core                     |
 | **Mobile Dev**          | React Native · Expo · Flutter · Android                                         |
-| **AI / ML / Data**      | Python · Pandas · NumPy · Scikit-learn · TensorFlow · PyTorch                   |
+| **AI & Tools**          | OpenAI API, ChatGPT, GitHub Copilot, Claude, Grok...                            |
 | **DevOps & Deployment** | Git · GitHub · Docker · GitHub Actions · Vercel · Netlify · Heroku · GCP · AWS  |
 | **Design Tools**        | Figma · Canva · Adobe XD · Photoshop · Illustrator · Premiere Pro               |
 
@@ -126,7 +126,7 @@ These demonstrate my ability to deliver production-ready apps, blend design & de
 ## 🧾 Certifications
 
 - 🎯 TOEIC 780/990 – IIG Vietnam (2025)
-- 🌐 HTML & CSS, JS Basic & Advanced – F8 (2022)
+- 🌐 HTML & CSS, JS Basic & Advanced – F8
 - 📱 Responsive Web Design – F8 (2022)
 - 📝 WPS Certification – Ratatype (2023)
 
